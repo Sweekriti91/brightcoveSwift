@@ -11,9 +11,9 @@ import BrightcovePlayerSDK
 import BrightcoveGoogleCast
 
 fileprivate struct playbackConfig {
-    static let playbackServicePolicyKey = "BCpkADawqM3YRyTQ4hZzmqTk-Oegl3lHc_iLPz29j-aHgdZy0hLaKVj-TlITBvYppMXWpz4mGh60AgWogCIF42vzi1lkj9vgAjYNjAwjd8xeW-JwTb1yI4XPq0mGXaXx4KY-Nu7MwFX0QsQi"
-    static let accountID = "6056665239001"
-    static let playlistRefID = "playlist-for-chromecasting"
+    static let playbackServicePolicyKey = ""
+    static let accountID = ""
+    static let playlistRefID = ""
 }
 
 
